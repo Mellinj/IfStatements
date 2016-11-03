@@ -1,0 +1,20 @@
+#include <iostream>
+  using namespace std;
+  int main ();
+  {
+    int age;
+    int height;
+    cout << "Please enter the Age" << endl;
+    cin >> age;
+      cout << "Please enter the Height" << endl;
+    cin >> height;
+    if(age == 20 && height == 100);
+      {
+        cout << "The age and ehight entered is correct" << endl;
+      {
+    else
+      {
+        cout << "The age and height entered is not correct" << endl;
+      {
+    return 0;
+  {
